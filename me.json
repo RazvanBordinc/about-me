@@ -1,0 +1,34 @@
+[
+  {
+    "title": "projects",
+    "content": "1. AI ChatBot - connected to my GitHub, can answer anything about me. 2. Functional Social Media - can post, comment, like, rate, etc., recommendation algorithm. 3. Cryptographic algorithm - using Feistel Network and CBC. 4. Interactive Portfolio - uses certain parts of (1 & 3). 5. Private medical system - is not publicly available."
+  },
+  {
+    "title": "tech_skills",
+    "content": "BACKEND: .NET Core (web API), Entity Framework, SQL Server, LINQ, basic JWT, basic Redis, REST, Session, Scalability, Rate Limiting, Roles, OOP. FRONTEND: React, Next.js, Tailwind CSS, Framer Motion, Zustand, many component libraries, Adobe Illustrator, Figma. TOOLS: Docker, Git, Postman, Swagger, VS, VSC. OTHER: strong prompt engineering skills, little knowledge of AI, little knowledge of Security, little knowledge of Cryptography."
+  },
+  {
+    "title": "soft_skills",
+    "content": "Strengths: Problem-solving, Critical thinking, Creative thinking, Abstract thinking, Fast processing, Adaptability, Good strategist. Weaknesses: Public speaking, Competitiveness, Anxiety, No experience in teams."
+  },
+  {
+    "title": "interests",
+    "content": "Defending, competing and defeating AI using AI. In the future, I aspire to pursue opportunities in one of the following areas: App Security, AI, Cryptography - PQC/QC, Leadership/Management."
+  },
+  {
+    "title": "experience",
+    "content": "Creating my own startup (weekends), worked on my own projects, no experience in working in teams or companies, 2nd year of university (INFORMATICS - UPT ROMANIA), self-taught for 4 years."
+  },
+  {
+    "title": "about_me",
+    "content": "Hi! I'm Razvan Bordinc! I'm a 21 years old Software Engineer from Romania, Timisoara. Looking for remote, on-site or hybrid opportunities. Full-time, part-time or internships."
+  },
+  {
+    "title": "contact",
+    "content": "Email: razvan.bordinc@yahoo.com, GitHub: https://github.com/RazvanBordinc, LinkedIn: https://linkedin.com/in/valentin-r%C4%83zvan-bord%C3%AEnc-30686a298/"
+  },
+  {
+    "title": "project_links",
+    "content": "1. AI ChatBot: https://github.com/RazvanBordinc/AIChatBot. 2. Functional Social Media: https://github.com/RazvanBordinc/Fragmento. 3. Cryptographic algorithm: https://github.com/RazvanBordinc/CustomCypher. 4. Interactive Portfolio: https://github.com/RazvanBordinc/cyber-portfolio."
+  }
+]
