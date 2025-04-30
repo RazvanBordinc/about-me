@@ -1,0 +1,60 @@
+ABOUT ME
+Hi! I'm Razvan Bordinc! I'm a 21 years old Software Engineer from Romania, Timisoara. Looking for remote, on-site or hybrid opportunities. Full-time, part-time or internships.
+
+PROJECTS
+
+AI ChatBot – Connected to my GitHub, can answer anything about me.
+
+Backend: .NET Core Web API, Redis, Gemini API, Docker
+
+Frontend: Next.js, React.js, Tailwind CSS, Framer Motion
+
+Link: https://github.com/RazvanBordinc/AIChatBot
+
+Functional Social Media – Post, comment, like, rate, includes a recommendation algorithm.
+
+Backend: .NET Core Web API, SQL Server, Entity Framework, JWT
+
+Frontend: Next.js, React.js, Tailwind CSS, Framer Motion
+
+Link: https://github.com/RazvanBordinc/Fragmento
+
+Cryptographic Algorithm – Uses Feistel Network and CBC.
+
+Tech: C#
+
+Link: https://github.com/RazvanBordinc/CustomCypher
+
+Interactive Portfolio – Uses features from AI ChatBot and Cryptographic Algorithm.
+
+Tech: Next.js, React.js, Tailwind CSS, Framer Motion
+
+Link: https://github.com/RazvanBordinc/cyber-portfolio
+
+Private Medical System – Not publicly available.
+
+TECH SKILLS
+Backend: .NET Core (Web API), Entity Framework, SQL Server, LINQ, basic JWT, basic Redis, REST, Session, Scalability, Rate Limiting, Roles, OOP
+Frontend: React, Next.js, Tailwind CSS, Framer Motion, Zustand, component libraries, Adobe Illustrator, Figma
+Tools: Docker, Git, Postman, Swagger, Visual Studio, VS Code
+Other: Strong prompt engineering skills, some knowledge of AI, Security, Cryptography
+
+SOFT SKILLS
+Strengths: Problem-solving, Critical thinking, Creative thinking, Abstract thinking, Fast processing, Adaptability, Good strategist
+Weaknesses: Public speaking, Competitiveness, Anxiety, No team experience
+
+INTERESTS
+Defending, competing and defeating AI using AI.
+Aspiring fields: App Security, AI, Cryptography (PQC/QC), Leadership/Management.
+
+EXPERIENCE
+Creating my own startup (on weekends).
+Worked on personal projects.
+No team or corporate experience.
+Currently in 2nd year of university (Informatics – UPT Romania).
+Self-taught for 4 years.
+
+CONTACT
+Email: razvan.bordinc@yahoo.com
+GitHub: https://github.com/RazvanBordinc
+LinkedIn: https://linkedin.com/in/valentin-r%C4%83zvan-bord%C3%AEnc-30686a298/
