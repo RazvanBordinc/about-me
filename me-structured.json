@@ -1,77 +1,64 @@
 [
   {
-    title: "how_to_use",
-    access: "AUTHORIZED",
-    content:
-      " - click on a folder to see its content\n\n - if the folder is locked, decrypt its password from passwords folder in the decrypt terminal\n\n - if you want to go back, click on the back button\n\n - to see the projects on github go to projects_links",
+    "title": "how_to_use",
+    "access": "AUTHORIZED",
+    "content": " - click on a folder to see its content\n\n - if the folder is locked, decrypt its password from passwords folder in the decrypt terminal\n\n - if you want to go back, click on the back button\n\n - to see the projects on github go to projects_links"
   },
   {
-    title: "projects",
-    access: "AUTHORIZED",
-    content:
-      "1. AI ChatBot\n - connected to my github\n - can answer anything about me\n\n2. Functional Social Media\n - can post,comment,like,rate,etc\n - recommendation algorithm\n\n3. Cryptographic algorithm\n - using Feistel Network and CBC\n\n4. Interactive Portfolio\n - uses certain parts of (1 & 3)\n\n5. Private medical system\n - is not publicly available",
+    "title": "projects",
+    "access": "AUTHORIZED",
+    "content": "1. AI ChatBot\n - connected to my github\n - can answer anything about me\n\n2. Functional Social Media\n - can post,comment,like,rate,etc\n - recommendation algorithm\n\n3. Cryptographic algorithm\n - using Feistel Network and CBC\n\n4. Interactive Portfolio\n - uses certain parts of (1 & 3)\n\n5. Private medical system\n - is not publicly available"
   },
   {
-    title: "tech_skills",
-    access: "AUTHORIZED",
-    content:
-      "BACKEND:\n - .NET Core (web api)\n - Entity Framework\n - SQL Server\n - LINQ\n - basic JWT\n - basic Redis\n - REST\n - Session\n - Scalability\n - Rate Limiting\n - Roles\n - OOP\n\nFRONTEND:\n - React\n - Next.js\n - Tailwind CSS\n - Framer Motion\n - Zustand\n - many component libraries\n - Adobe Illustrator\n - Figma\n\nTOOLS:\n - Docker\n - Git\n - Postman\n - Swagger\n - VS\n - VSC\n\nOTHER:\n - strong prompt engineering skills\n - little knowledge of AI\n - little knowledge of Security\n - little knowledge of Cryptography",
+    "title": "tech_skills",
+    "access": "AUTHORIZED",
+    "content": "BACKEND:\n - .NET Core (web api)\n - Entity Framework\n - SQL Server\n - LINQ\n - basic JWT\n - basic Redis\n - REST\n - Session\n - Scalability\n - Rate Limiting\n - Roles\n - OOP\n\nFRONTEND:\n - React\n - Next.js\n - Tailwind CSS\n - Framer Motion\n - Zustand\n - many component libraries\n - Adobe Illustrator\n - Figma\n\nTOOLS:\n - Docker\n - Git\n - Postman\n - Swagger\n - VS\n - VSC\n\nOTHER:\n - strong prompt engineering skills\n - little knowledge of AI\n - little knowledge of Security\n - little knowledge of Cryptography"
   },
   {
-    title: "soft_skills",
-    access: "AUTHORIZED",
-    content:
-      "Strengths:\n\n1. Problem-solving\n2. Critical thinking\n3. Creative thinking\n4. Abstract thinking\n5. Fast processing\n6. Adaptability\n7. Good strategist\n\nWeaknesses:\n\n1. Public speaking\n2. Competitiveness\n3. Anxiety\n4. No experience in teams",
+    "title": "soft_skills",
+    "access": "AUTHORIZED",
+    "content": "Strengths:\n\n1. Problem-solving\n2. Critical thinking\n3. Creative thinking\n4. Abstract thinking\n5. Fast processing\n6. Adaptability\n7. Good strategist\n\nWeaknesses:\n\n1. Public speaking\n2. Competitiveness\n3. Anxiety\n4. No experience in teams"
   },
   {
-    title: "interests",
-    access: "AUTHORIZED",
-    content:
-      "Defending, competing and defeating AI using AI\n\nIn the future, I aspire to pursue opportunities in one of the following areas:\n\n - App Security\n - AI\n - Cryptography - PQC/QC\n - Leadership/Management",
+    "title": "interests",
+    "access": "AUTHORIZED",
+    "content": "Defending, competing and defeating AI using AI\n\nIn the future, I aspire to pursue opportunities in one of the following areas:\n\n - App Security\n - AI\n - Cryptography - PQC/QC\n - Leadership/Management"
   },
   {
-    title: "experience",
-    access: "AUTHORIZED",
-    content:
-      " - creating my own startup (weekends)\n\n - worked on my own projects\n\n - no experience in working in teams or companies\n\n - 2nd year of university (INFORMATICS - UPT ROMANIA)\n\n - self-taught for 4 years",
+    "title": "experience",
+    "access": "AUTHORIZED",
+    "content": " - creating my own startup (weekends)\n\n - worked on my own projects\n\n - no experience in working in teams or companies\n\n - 2nd year of university (INFORMATICS - UPT ROMANIA)\n\n - self-taught for 4 years"
   },
   {
-    title: "about_me",
-    access: "AUTHORIZED",
-    content:
-      " Hi! I'm Razvan Bordinc!\n\n - I'm a 21 years old Software Engineer from Romania, Timisoara\n\n - Looking for remote, on-site or hybrid opportunities\n\n - Full-time, part-time or internships",
+    "title": "about_me",
+    "access": "AUTHORIZED",
+    "content": "Hi! I'm Razvan Bordinc!\n\n - I'm a 21 years old Software Engineer from Romania, Timisoara\n\n - Looking for remote, on-site or hybrid opportunities\n\n - Full-time, part-time or internships"
   },
   {
-    title: "contact",
-    access: "AUTHORIZED",
-    content:
-      "Email: razvan.bordinc@yahoo.com\n\nGithub: github.com/RazvanBordinc\n\nLinkedIn: linkedin.com/in/valentin-r%C4%83zvan-bord%C3%AEnc-30686a298/",
-  },
-
-  {
-    title: "projects_links",
-    access: "AUTHORIZED",
-    content:
-      "1. AI ChatBot:\n github.com/RazvanBordinc/AIChatBot\n\n2. Functional Social Media:\n github.com/RazvanBordinc/Fragmento\n\n3. Cryptograhic algorithm:\n github.com/RazvanBordinc/CustomCypher\n\n4. Interactive Portfolio:\n github.com/RazvanBordinc/cyber-portfolio ",
+    "title": "contact",
+    "access": "AUTHORIZED",
+    "content": "Email: razvan.bordinc@yahoo.com\n\nGithub: github.com/RazvanBordinc\n\nLinkedIn: linkedin.com/in/valentin-r%C4%83zvan-bord%C3%AEnc-30686a298/"
   },
   {
-    title: "social_media",
-    access: "UNAUTHORIZED",
-    password: "gamma213",
-    content:
-      "Instagram: \ninstagram.com/rasvanz5\n\n - currently active only on Instagram",
+    "title": "projects_links",
+    "access": "AUTHORIZED",
+    "content": "1. AI ChatBot:\n github.com/RazvanBordinc/AIChatBot\n\n2. Functional Social Media:\n github.com/RazvanBordinc/Fragmento\n\n3. Cryptograhic algorithm:\n github.com/RazvanBordinc/CustomCypher\n\n4. Interactive Portfolio:\n github.com/RazvanBordinc/cyber-portfolio"
   },
   {
-    title: "passwords",
-    access: "AUTHORIZED",
-    content:
-      "social_media:\n\ntext: \n54A1E0EFAD53EF4F81E54153ABB4A250927E83DFAA521E2D9AFE961254314A0FF8021720A577B9A4B01DC6C056E2BB019458A71C8F945B182ED3EE05362B2F1E\nkey:\nC1n/TRQHTkJZOXn7P97blVQ+HefwVJ1USKJczj7Jo0pxXkYSU7mfj2th/ny7M9Xc+5JBJCC/BXabRBRBL28357GqhKfeWuUaFHpVSVyoMIolaqVw6jHe3E7Nb0488s6UPGcKv6k/6+nMD0Gh4kYAWo4kr9BOL6wOvBt+euJFirGj4W8oopVFeol4alSXX5IgYWI55m/A1ojnqSddBAhEQ4RTsA1dr0rAdcl6g2LtR2lN+gWxRVSmOVcuY7RwRJkISSpoezGM422PwM9EtzqjLyl0ruzO3oS7VKOpSDHQqcNb94C7QIUcEkIywZLDAdGCN2LF1Tmbh0Q+0ouyuYID2A==\n\nhobbies:\n\ntext:\n1AB22F2DD48D9B978818804592F207A7A3258D6A79C51751A988FC3C8B841B7BE43AFF1D246A131FD0BAA1EC98F5591DB8D9B8DAFE44DF96D553D0EAE41A0429\ntoken:\n6tcWvj1EfpP/X7goAD3in5uKyoO0uST45uU26mX/I/hsAsUelJ57P5tQmX2gEGFDgNhklcgpMDUr8obDnqI8sqHL4gvij06EnGVzasyteVwsn0gK/8HOsqsZxhkU7nT2651go93sFx1SWptN+1MsqOtw2t5zLjyXwKRiq4Tn67ww1tsEov4tlQ1HPvP4AFYYIjplGqAmWe3P4PPufXqXURgxRsdUI7SyMmvsjos6Tpa2JV3g2LgP6qrLk1KXRJZ+Mu8EkI1+2iOOvkTNy+NrZkrfZlfE+XH+Svtsvs73RWgHOQv8t6VfvUvHKnzB7tvNcYFUQQJJVEoghiuXmI3aOg==",
+    "title": "social_media",
+    "access": "UNAUTHORIZED",
+    "password": "gamma213",
+    "content": "Instagram: \ninstagram.com/rasvanz5\n\n - currently active only on Instagram"
   },
   {
-    title: "hobbies",
-    access: "UNAUTHORIZED",
-    password: "delta654",
-    content:
-      " - Chess\n - Trips\n - Movies, TV Series, Anime\n - Music\n - Gym\n - Watches\n - Fragrances",
+    "title": "passwords",
+    "access": "AUTHORIZED",
+    "content": "social_media:\n\ntext: \n54A1E0EFAD53EF4F81E54153ABB4A250927E83DFAA521E2D9AFE961254314A0FF8021720A577B9A4B01DC6C056E2BB019458A71C8F945B182ED3EE05362B2F1E\nkey:\nC1n/TRQHTkJZOXn7P97blVQ+HefwVJ1USKJczj7Jo0pxXkYSU7mfj2th/ny7M9Xc+5JBJCC/BXabRBRBL28357GqhKfeWuUaFHpVSVyoMIolaqVw6jHe3E7Nb0488s6UPGcKv6k/6+nMD0Gh4kYAWo4kr9BOL6wOvBt+euJFirGj4W8oopVFeol4alSXX5IgYWI55m/A1ojnqSddBAhEQ4RTsA1dr0rAdcl6g2LtR2lN+gWxRVSmOVcuY7RwRJkISSpoezGM422PwM9EtzqjLyl0ruzO3oS7VKOpSDHQqcNb94C7QIUcEkIywZLDAdGCN2LF1Tmbh0Q+0ouyuYID2A==\n\nhobbies:\n\ntext:\n1AB22F2DD48D9B978818804592F207A7A3258D6A79C51751A988FC3C8B841B7BE43AFF1D246A131FD0BAA1EC98F5591DB8D9B8DAFE44DF96D553D0EAE41A0429\ntoken:\n6tcWvj1EfpP/X7goAD3in5uKyoO0uST45uU26mX/I/hsAsUelJ57P5tQmX2gEGFDgNhklcgpMDUr8obDnqI8sqHL4gvij06EnGVzasyteVwsn0gK/8HOsqsZxhkU7nT2651go93sFx1SWptN+1MsqOtw2t5zLjyXwKRiq4Tn67ww1tsEov4tlQ1HPvP4AFYYIjplGqAmWe3P4PPufXqXURgxRsdUI7SyMmvsjos6Tpa2JV3g2LgP6qrLk1KXRJZ+Mu8EkI1+2iOOvkTNy+NrZkrfZlfE+XH+Svtsvs73RWgHOQv8t6VfvUvHKnzB7tvNcYFUQQJJVEoghiuXmI3aOg=="
   },
-];
+  {
+    "title": "hobbies",
+    "access": "UNAUTHORIZED",
+    "password": "delta654",
+    "content": " - Chess\n - Trips\n - Movies, TV Series, Anime\n - Music\n - Gym\n - Watches\n - Fragrances"
+  }
+]
