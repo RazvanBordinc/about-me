@@ -12,7 +12,7 @@
   {
     "title": "tech_skills",
     "access": "AUTHORIZED",
-    "content": "BACKEND:\n - .NET Core (web api)\n - Entity Framework\n - SQL Server\n - LINQ\n - basic JWT\n - basic Redis\n - REST\n - Session\n - Scalability\n - Rate Limiting\n - Roles\n - OOP\n\nFRONTEND:\n - React\n - Next.js\n - Tailwind CSS\n - Framer Motion\n - Zustand\n - many component libraries\n - Adobe Illustrator\n - Figma\n\nTOOLS:\n - Docker\n - Git\n - Postman\n - Swagger\n - VS\n - VSC\n\nOTHER:\n - strong prompt engineering skills\n - little knowledge of AI\n - little knowledge of Security\n - little knowledge of Cryptography"
+    "content": "BACKEND:\n - .NET Core (web api)\n - Entity Framework\n - SQL Server\n - LINQ\n - basic JWT\n - basic Redis\n - basic Render\n - REST\n - Session\n - Scalability\n - Rate Limiting\n - Roles\n - OOP\n\nFRONTEND:\n - React\n - Next.js\n - Tailwind CSS\n - Framer Motion\n - Zustand\n - many component libraries\n - Adobe Illustrator\n - Figma\n\nTOOLS:\n - Docker\n - Git\n - Postman\n - Swagger\n - VS\n - VSC\n\nOTHER:\n - strong prompt engineering skills\n - little knowledge of AI\n - little knowledge of Security\n - little knowledge of Cryptography"
   },
   {
     "title": "soft_skills",
@@ -42,7 +42,7 @@
   {
     "title": "projects_links",
     "access": "AUTHORIZED",
-    "content": "1. AI ChatBot:\n github.com/RazvanBordinc/AIChatBot\n\n2. Functional Social Media:\n github.com/RazvanBordinc/Fragmento\n\n3. Cryptograhic algorithm:\n github.com/RazvanBordinc/CustomCypher\n\n4. Interactive Portfolio:\n github.com/RazvanBordinc/cyber-portfolio"
+    "content": "1. AI ChatBot:\n github.com/RazvanBordinc/PortofAI\n\n2. Functional Social Media:\n github.com/RazvanBordinc/Fragmento\n\n3. Cryptograhic algorithm:\n github.com/RazvanBordinc/CustomCypher\n\n4. Interactive Portfolio:\n github.com/RazvanBordinc/cyber-portfolio"
   },
   {
     "title": "social_media",
