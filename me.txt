@@ -5,11 +5,11 @@ PROJECTS
 
 AI ChatBot – Connected to my GitHub, can answer anything about me.
 
-Backend: .NET Core Web API, Redis, Gemini API, Docker
+Backend: .NET Core Web API, Redis, Gemini API, Docker, Render, Upstash
 
 Frontend: Next.js, React.js, Tailwind CSS, Framer Motion
 
-Link: https://github.com/RazvanBordinc/AIChatBot
+Link: https://github.com/RazvanBordinc/PortofAI
 
 Functional Social Media – Post, comment, like, rate, includes a recommendation algorithm.
 
