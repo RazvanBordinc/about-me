@@ -11,9 +11,9 @@ Frontend: Next.js, React.js, Tailwind CSS, Framer Motion
 
 Link: https://github.com/RazvanBordinc/PortofAI
 
-Functional Social Media – Post, comment, like, rate, includes a recommendation algorithm.
+Advanced IQ Test - Gamified, leaderboard, tracking progress, dynamic questions
 
-Backend: .NET Core Web API, SQL Server, Entity Framework, JWT
+Backend: .NET Core Web API, SQL Server, Entity Framework, JWT, REDIS
 
 Frontend: Next.js, React.js, Tailwind CSS, Framer Motion
 
