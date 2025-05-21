@@ -7,7 +7,7 @@
   {
     "title": "projects",
     "access": "AUTHORIZED",
-    "content": "1. AI ChatBot\n - connected to my github\n - can answer anything about me\n\n2. Functional Social Media\n - can post,comment,like,rate,etc\n - recommendation algorithm\n\n3. Cryptographic algorithm\n - using Feistel Network and CBC\n\n4. Interactive Portfolio\n - uses certain parts of (1 & 3)\n\n5. Private medical system\n - is not publicly available"
+    "content": "1. AI ChatBot\n - connected to my github\n - can answer anything about me\n\n2. Advanced IQ Test\n - leaderboard, score system, gamified, account making\n\n3. Cryptographic algorithm\n - using Feistel Network and CBC\n\n4. Interactive Portfolio\n - uses certain parts of (1 & 3)\n\n5. Private medical system\n - is not publicly available"
   },
   {
     "title": "tech_skills",
