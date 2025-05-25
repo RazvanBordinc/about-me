@@ -11,13 +11,13 @@ Frontend: Next.js, React.js, Tailwind CSS, Framer Motion
 
 Link: https://github.com/RazvanBordinc/PortofAI
 
-Advanced IQ Test - Gamified, leaderboard, tracking progress, dynamic questions
+Complex IQ Test - Gamified, leaderboard, tracking progress, dynamic questions, records, etc
 
 Backend: .NET Core Web API, SQL Server, Entity Framework, JWT, REDIS
 
 Frontend: Next.js, React.js, Tailwind CSS, Framer Motion
 
-Link: https://github.com/RazvanBordinc/Fragmento
+Link: https://github.com/RazvanBordinc/iqtest-app
 
 Cryptographic Algorithm – Uses Feistel Network and CBC.
 
