@@ -7,7 +7,7 @@
   {
     "title": "projects",
     "access": "AUTHORIZED",
-    "content": "1. AI ChatBot\n - connected to my github\n - can answer anything about me\n\n2. Advanced IQ Test\n - leaderboard, score system, gamified, account making\n\n3. Cryptographic algorithm\n - using Feistel Network and CBC\n\n4. Interactive Portfolio\n - uses certain parts of (1 & 3)\n\n5. Private medical system\n - is not publicly available"
+    "content": "1. AI ChatBot\n - connected to my github\n - can answer anything about me\n\n2. Complex IQ Test\n - leaderboard, score system, gamified, records, etc\n\n3. Cryptographic algorithm\n - using Feistel Network and CBC\n\n4. Interactive Portfolio\n - uses certain parts of (1 & 3)\n\n5. Private medical system\n - is not publicly available"
   },
   {
     "title": "tech_skills",
@@ -42,7 +42,7 @@
   {
     "title": "projects_links",
     "access": "AUTHORIZED",
-    "content": "1. AI ChatBot:\n github.com/RazvanBordinc/PortofAI\n\n2. Functional Social Media:\n github.com/RazvanBordinc/Fragmento\n\n3. Cryptograhic algorithm:\n github.com/RazvanBordinc/CustomCypher\n\n4. Interactive Portfolio:\n github.com/RazvanBordinc/cyber-portfolio"
+    "content": "1. AI ChatBot:\n github.com/RazvanBordinc/PortofAI\n\n2. Complex IQ Test APP:\n github.com/RazvanBordinc/iqtest-app\n\n3. Cryptograhic algorithm:\n github.com/RazvanBordinc/CustomCypher\n\n4. Interactive Portfolio:\n github.com/RazvanBordinc/cyber-portfolio"
   },
   {
     "title": "social_media",
